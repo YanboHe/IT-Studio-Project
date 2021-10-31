@@ -1,0 +1,49 @@
+course_code,title,credit,prerequisite,available_semester1|available_semester2
+COSC1000,Programming Bootcamp 1,12,None,S1|
+COSC1001,Mathematics for Computing 1,12,None,S1|
+COSC1002,Programming Studio 1,12,None,S1|
+COSC1003,Algorithms and Analysis,12,None,S1|
+COSC1004,Programming Bootcamp 2,12,COSC1000,S2|
+COSC1005,Mathematics for Computing 2,12,COSC1001,S2|
+COSC1006,Programming Studio 2,12,COSC1002,S2|
+COSC1007,Advanced Programming Techniques,12,COSC1OO3,S2|
+COSC1008,Software Engineering Fundamentals,12,COSC1004,S1|S2
+COSC1009,Computing Theory,12,None,S1|S2
+COSC1010,Operating System Principles,12,None,S1|S2
+COSC1011,Software Engineering: Process and Tools,12,None,S1|S2
+COSC1012,Professional Computing Practice,12,None,S1|S2
+COSC1013,Artificial Intelligence,12,None,S1|S2
+COSC1014,Cloud Computing,12,None,S1|S2
+COSC1015,Database Applications,12,None,S1|S2
+COSC2000,IT Studio 1,12,None,S1|
+COSC2001,Networking 1,12,None,S1|
+COSC2002,Database 1,12,None,S1|
+COSC2003,Software Engineering Principles and Practice 1,12,None,S1|
+COSC2004,IT Studio 2,12,COSC2000,S2|
+COSC2005,Networking 2,12,COSC2OO1,S2|
+COSC2006,Database 2,12,COSC2OO2,S2|
+COSC2007,Software Engineering Principles and Practice 2,12,COSC2003,S2|
+COSC2008,Approved Industry Experience 1,12,COSC2004,S1|S2
+COSC2009,Web Database Applications,12,None,S1|S2
+COSC2010,Software Testing,12,None,S1|S2
+COSC2011,Network Programming,12,None,S1|S2
+COSC2012,Approved Industry Experience 2,12,None,S1|S2
+COSC2013,Peer-to-Peer Networks,12,None,S1|S2
+COSC2014,Object-oriented Software Design,12,None,S1|S2
+COSC2015,Software Engineering Project,12,None,S1|S2
+COSC3000,Understanding the Business Environment,12,None,S1|
+COSC3001,Business Decision Making,12,None,S1|
+COSC3002,Business in Society,12,None,S1|
+COSC3003,Integrated Perspectives on Business Problems,12,None,S1|
+COSC3004,Business Graduate Folio,12,COSC3000,S2|
+COSC3005,Accounting in Organisations and Society,12,COSC3001,S2|
+COSC3006,Financial Accounting and Analysis,12,COSC3002,S2|
+COSC3007,Cost Analysis and Organisational Decisions,12,COSC3003,S2|
+COSC3008,Managerial Advisory Finance,12,COSC3004,S1|S2
+COSC3009,Financial Accountability and Reporting,12,None,S1|S2
+COSC3010,Accounting Behaviour and Organisations,12,None,S1|S2
+COSC3011,Critical Accounting Perspectives,12,None,S1|S2
+COSC3012,Strategic Accounting and Leadership,12,None,S1|S2
+COSC3013,Blockchain for Business,12,None,S1|S2
+COSC3014,The Blockchain Economy,12,None,S1|S2
+COSC3015,Financial Instruments and Technologies,12,None,S1|S2
